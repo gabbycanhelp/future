@@ -1,0 +1,40 @@
+body{
+ font-size: 6vmin;
+}
+
+{
+ font-family: "daning script";
+}
+
+strong {
+ color: green;
+ font-size: 150%;
+}
+
+em {
+ color: yellow;
+ font-size: 100%;
+}
+
+cite {
+ color: red;
+}
+
+blockquote {
+ border: dotted;
+ background-color: black;
+ color: pink;
+ text-align: center;
+}
+header{
+   font-family:"Aqua";
+ }
+.paitience{
+ color:blue;
+ font-family:Aqua;
+}
+.persevirence{
+ color:orange;
+}
+ <meta name="viewport" content="width=device-width,
+initial-scale=1;">
